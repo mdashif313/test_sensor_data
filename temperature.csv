@@ -1,0 +1,11 @@
+sensor_id,area_id,noted_date,temp,out/in
+sensor_196134_bd201015,FarmHouse-01,08-12-2018 10:00,28,In
+sensor_196131_7bca51bc,FarmHouse-02,08-12-2018 10:00,30,In
+sensor_196135_a1b2c3d4,FarmHouse-03,08-12-2018 10:01,27,Out
+sensor_196132_e5f6g7h8,FarmHouse-04,08-12-2018 09:59,31,Out
+sensor_196134_bd201015,FarmHouse-01,08-12-2018 11:00,29,In
+sensor_196131_7bca51bc,FarmHouse-02,08-12-2018 11:00,31,In
+sensor_196133_i9j0k1l2,FarmHouse-05,08-12-2018 11:01,26,Out
+sensor_196136_m3n4o5p6,FarmHouse-06,08-12-2018 10:59,32,Out
+sensor_196134_bd201015,FarmHouse-01,08-12-2018 12:00,27,In
+sensor_196131_7bca51bc,FarmHouse-02,08-12-2018 12:00,30,In
