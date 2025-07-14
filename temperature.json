@@ -1,72 +1,30 @@
 [
   {
-    "sensor_id": "sensor_196134_bd201015",
-    "area_id": "FarmHouse-01",
-    "noted_date": "08-12-2018 10:00",
-    "temp": 28,
-    "out/in": "In"
-  },
-  {
     "sensor_id": "sensor_196131_7bca51bc",
     "area_id": "FarmHouse-02",
-    "noted_date": "08-12-2018 10:00",
+    "noted_date": "14-07-2025 10:00",
     "temp": 30,
     "out/in": "In"
   },
   {
     "sensor_id": "sensor_196135_a1b2c3d4",
     "area_id": "FarmHouse-03",
-    "noted_date": "08-12-2018 10:01",
+    "noted_date": "14-07-2025 10:01",
     "temp": 27,
     "out/in": "Out"
   },
   {
     "sensor_id": "sensor_196132_e5f6g7h8",
     "area_id": "FarmHouse-04",
-    "noted_date": "08-12-2018 09:59",
+    "noted_date": "14-07-2025 09:59",
     "temp": 31,
     "out/in": "Out"
   },
   {
-    "sensor_id": "sensor_196134_bd201015",
-    "area_id": "FarmHouse-01",
-    "noted_date": "08-12-2018 11:00",
-    "temp": 29,
-    "out/in": "In"
-  },
-  {
     "sensor_id": "sensor_196131_7bca51bc",
     "area_id": "FarmHouse-02",
-    "noted_date": "08-12-2018 11:00",
+    "noted_date": "14-07-2025 11:00",
     "temp": 31,
-    "out/in": "In"
-  },
-  {
-    "sensor_id": "sensor_196133_i9j0k1l2",
-    "area_id": "FarmHouse-05",
-    "noted_date": "08-12-2018 11:01",
-    "temp": 26,
-    "out/in": "Out"
-  },
-  {
-    "sensor_id": "sensor_196136_m3n4o5p6",
-    "area_id": "FarmHouse-06",
-    "noted_date": "08-12-2018 10:59",
-    "temp": 32,
-    "out/in": "Out"
-  },
-  {
-    "sensor_id": "sensor_196134_bd201015",
-    "area_id": "FarmHouse-01",
-    "noted_date": "08-12-2018 12:00",
-    "temp": 27,
-    "out/in": "In"
-  },
-  {
-    "sensor_id": "sensor_196131_7bca51bc",
-    "area_id": "FarmHouse-02",
-    "noted_date": "08-12-2018 12:00",
-    "temp": 30,
     "out/in": "In"
   }
 ]
