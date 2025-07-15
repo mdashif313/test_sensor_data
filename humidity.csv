@@ -1,5 +1,5 @@
-sensor_id,area_id,noted_date,temp,out/in
-sensor_196134_bd201015,FarmHouse-01,15-07-2025 10:00,28,In
-sensor_196131_7bca51bc,FarmHouse-02,15-07-2025 10:00,30,In
-sensor_196135_a1b2c3d4,FarmHouse-03,15-07-2025 10:01,27,Out
-sensor_196134_bd201015,FarmHouse-01,15-07-2025 11:00,29,In
+sensor_id,area_id,noted_date,humidity_level,out/in,battery_level,status
+sensor_201234_hum_a1b2,FarmHouse-01,07-15-2025 09:30,65,In,85%,Active
+sensor_201235_hum_c3d4,FarmHouse-02,07-15-2025 09:30,63,In,92%,Active
+sensor_201236_hum_e5f6,FarmHouse-03,07-15-2025 09:31,72,Out,78%,Active
+sensor_201234_hum_a1b2,FarmHouse-01,07-15-2025 10:30,67,In,84%,Active
